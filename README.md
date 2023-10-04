@@ -1,9 +1,8 @@
 # ComputerSecurity
 
-· Developed a web-based money transfer application using Python Django, allows users to make payments, initiate and process transaction requests, view payments history, allows administrators to manage users groups, check all accounts info and payments.
+· Developed a web forum for antique sales using PHP that stores data in a web database. Allows users to register and login, post pictures and text, allows the administrators to post and view all users’ sent posts.
 
-· Materialized a RESTful Web Service in the system that settled automated currency conversion.
-
+· Implemented protection against SQL injection, Dictionary attack, CSRF and XSS by check-methods, import frequently-used-text library and magic quotes. Further improved the security by QR code two-step verification, Google reCAPTCHA.
 
 These above are reflected in the:
 
