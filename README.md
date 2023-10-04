@@ -11,5 +11,5 @@ These above are reflected in the:
 2. Implemented the counter-measures for SQL injection, XSS, CSRF, suspicious file upload, dictionary attack.
 3. Make sure the user identity is genuine by using QR code two-step verification, email verification, registration and login.
 4. Avoid robotic brute force attack by using Google reCAPTCHA.
-5. Preventing serious consequences by banned the IP address reached the maximum number of incorrect passwords, alerting user's registered email when the account was logged in at a different IP address.
+5. Preventing serious consequences by banning the IP address when reaching the maximum number of incorrect passwords, alerting user's registered email when the account was logged in at a different IP address.
    
