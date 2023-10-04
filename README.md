@@ -1,4 +1,4 @@
-# ComputerSecurity
+# Web Forum
 
 · Developed a web forum for antique sales using PHP that stores data in a web database. Allows users to register and login, post pictures and text, allows the administrators to post and view all users’ sent posts.
 
